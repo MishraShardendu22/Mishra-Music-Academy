@@ -1,3 +1,5 @@
+# [Mishra Music Academy](https://mishra-music-academy-delta.vercel.app/)
+
 # Next.js Projects ⚛️🚀
 
 Welcome to my Next.js journey! This repository showcases my progress as I dive into Next.js, the powerful React framework for server-side rendering and static site generation. Explore various projects, experiment with the code, and join me in mastering modern web development with Next.js!
