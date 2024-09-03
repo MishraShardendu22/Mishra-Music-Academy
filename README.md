@@ -44,6 +44,9 @@ I am always open to feedback and suggestions for improvement. If you have any ad
 ### Next.js <img src="https://codewithmosh.com/_next/image?url=https%3A%2F%2Fcdn.filestackcontent.com%2F8MbtJ4hTAaOk3KPcptqZ&w=3840&q=75" width="40" height="40">
 Next.js is a React framework that provides powerful features like server-side rendering (SSR) and static site generation (SSG). It enhances performance, SEO, and developer experience with its out-of-the-box support for routing, data fetching, and API routes.
 
+### TypeScript <img src="https://imgs.search.brave.com/gpHUSC9ij03yILGD7P0xqFiTmbna1eYrtTeW1nSJfp4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/dHlwLnVzL2ZpbGUv/dHlwZXNjcmlwdC5z/dmc" alt="TypeScript Logo" width="40" height="40">
+TypeScript is a statically typed superset of JavaScript that adds type safety and enhanced tooling to JavaScript development. It helps catch errors during development, improves code readability, and supports large-scale applications with better maintainability. By compiling to plain JavaScript, TypeScript ensures compatibility with any JavaScript environment.
+
 ### React.js <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="40" height="40">
 React.js is a JavaScript library for building user interfaces. It allows developers to create reusable UI components, manage state efficiently, and handle complex user interactions with a virtual DOM.
 
